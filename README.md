@@ -114,7 +114,7 @@
 </div>
 
 <h2 id="contactTitle">Contact Us</h2>
-<p id="address">📍 Address: Near Central Market, Bali</p>
+<p id="address">📍 Address:Barachak Tilipara near by Kali Mandir Rasan Dukan </p>
 <p id="phone">📞 Phone: +91 9876543210</p>
 
   </div>  <footer>
